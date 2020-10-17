@@ -1,0 +1,42 @@
+{
+  "usuarios": [
+    {
+      "id": 3,
+      "nome": "carlos",
+      "destino": "NY",
+      "data": "21/04/2020"
+    },
+    {
+      "id": 4,
+      "nome": "elias",
+      "destino": "bahia",
+      "data": "10/10/2020"
+    }
+  ],
+  "motoristas": [
+    {
+      "id": 1,
+      "nome": "carlos",
+      "destino": "ceara",
+      "data": "20/10/10"
+    },
+    {
+      "id": 2,
+      "nome": "carlos alexandre",
+      "destino": "ceara/brazil",
+      "data": "20/10/10"
+    },
+    {
+      "id": 3,
+      "nome": "maria almeida",
+      "destino": "italia",
+      "data": "3/04/2020"
+    },
+    {
+      "id": 4,
+      "nome": "enzo",
+      "destino": "bahia",
+      "data": "10/10/2020"
+    }
+  ]
+}
